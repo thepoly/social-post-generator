@@ -1,10 +1,10 @@
 'use strict';
 
-describe('myApp.view2 module', function() {
+describe('myApp.reddit module', function() {
 
-  beforeEach(module('myApp.view2'));
+  beforeEach(module('myApp.reddit'));
 
-  describe('view2 controller', function(){
+  describe('reddit controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body
